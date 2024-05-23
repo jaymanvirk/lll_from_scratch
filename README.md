@@ -1,1 +1,1 @@
-# lll_from_scratch
+# llm_from_scratch
